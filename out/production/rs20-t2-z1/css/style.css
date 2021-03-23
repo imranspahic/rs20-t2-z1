@@ -1,0 +1,14 @@
+.root {
+    -fx-background-color: yellow;
+}
+
+#helloWorld {
+    -fx-font-size: 17px;
+}
+
+#sayButton {
+    -fx-border-radius: 10px;
+    -fx-font-size: 15px;
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
